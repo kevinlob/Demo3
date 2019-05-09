@@ -1,13 +1,12 @@
 // Making a working server
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 1377;
 const rounds = require('./rounds');
 var server = require('http').Server(app);
 app.get('/', (req, res) => res.sendFile(__dirname + '/client/index.html'));
 app.use('/client', express.static(__dirname + '/client'));
-server.listen(PORT);
-console.log('Server started on port ' + PORT);
+server.listen(process.env.PORT || 3000);
+console.log('Server started on port ');
 
 var users = []
 var isWinner = false;
