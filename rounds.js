@@ -293,71 +293,7 @@ const round_42 = {
   answer: "point"
 };
 
-
-
-
-
-
-
-
-
-
-// const round_43 = {
-//   photo1: "/client/img/round 43/image1.jpg", 
-//   photo2: "/client/img/round 43/image2.jpg",
-//   photo3: "/client/img/round 43/image3.jpg",
-//   photo4: "/client/img/round 43/image4.jpg",
-//   answer: ""
-// };
-// const round_44 = {
-//   photo1: "/client/img/round 44/image1.jpg", 
-//   photo2: "/client/img/round 44/image2.jpg",
-//   photo3: "/client/img/round 44/image3.jpg",
-//   photo4: "/client/img/round 44/image4.jpg",
-//   answer: ""
-// };
-// const round_45 = {
-//   photo1: "/client/img/round 45/image1.jpg", 
-//   photo2: "/client/img/round 45/image2.jpg",
-//   photo3: "/client/img/round 45/image3.jpg",
-//   photo4: "/client/img/round 45/image4.jpg",
-//   answer: ""
-// };
-// const round_46 = {
-//   photo1: "/client/img/round 46/image1.jpg", 
-//   photo2: "/client/img/round 46/image2.jpg",
-//   photo3: "/client/img/round 46/image3.jpg",
-//   photo4: "/client/img/round 46/image4.jpg",
-//   answer: ""
-// };
-// const round_47 = {
-//   photo1: "/client/img/round 47/image1.jpg", 
-//   photo2: "/client/img/round 47/image2.jpg",
-//   photo3: "/client/img/round 47/image3.jpg",
-//   photo4: "/client/img/round 47/image4.jpg",
-//   answer: ""
-// };
-// const round_48 = {
-//   photo1: "/client/img/round 48/image1.jpg", 
-//   photo2: "/client/img/round 48/image2.jpg",
-//   photo3: "/client/img/round 48/image3.jpg",
-//   photo4: "/client/img/round 48/image4.jpg",
-//   answer: ""
-// };
-// const round_49 = {
-//   photo1: "/client/img/round 49/image1.jpg", 
-//   photo2: "/client/img/round 49/image2.jpg",
-//   photo3: "/client/img/round 49/image3.jpg",
-//   photo4: "/client/img/round 49/image4.jpg",
-//   answer: ""
-// };
-// const round_50 = {
-//   photo1: "/client/img/round 50/image1.jpg", 
-//   photo2: "/client/img/round 50/image2.jpg",
-//   photo3: "/client/img/round 50/image3.jpg",
-//   photo4: "/client/img/round 50/image4.jpg",
-//   answer: ""
-// };
+//ROUNDS 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 
 
 var reset_rounds = [round_1,round_2, round_3, round_4, round_5, round_6, round_7, round_8, round_9, round_10,
