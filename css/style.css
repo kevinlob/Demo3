@@ -8,6 +8,7 @@ html, body{
 /* Utilities */
 .button{
   text-align: center;
+  display: inline;
 }
 .button p{
   font-family: sans-serif;
@@ -101,6 +102,9 @@ background: rgb(52, 83, 175);
 }
 #enterguess p{
   margin:auto;
+}
+#guess{
+  display: inline;
 }
 .container{
   text-align: center;
