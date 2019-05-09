@@ -1,7 +1,7 @@
 // Making a working server
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 1577;
+const PORT = process.env.PORT || 1377;
 const rounds = require('./rounds');
 var server = require('http').Server(app);
 app.get('/', (req, res) => res.sendFile(__dirname + '/client/index.html'));

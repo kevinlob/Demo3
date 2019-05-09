@@ -8,6 +8,7 @@ html, body{
 /* Utilities */
 .button{
   text-align: center;
+  display: inline;
 }
 .button p{
   font-family: sans-serif;
@@ -26,7 +27,7 @@ html, body{
 background: rgb(52, 83, 175);
 }
 #Homepage .button{
-  margin-top:4%;
+  display: inline;
 }
 .bold{
   color:rgba(19, 134, 81, 0.849);
@@ -96,6 +97,18 @@ background: rgb(52, 83, 175);
 #guess.text{
   margin-top:3%;
 }
+#guess,#enterguess{
+  display: inline;
+}
+#enterguess p{
+  margin:auto;
+}
+#guess{
+  display: inline;
+}
+.container{
+  text-align: center;
+}
 .row{
   display: block;
   height:250px;
@@ -143,6 +156,9 @@ background: rgb(52, 83, 175);
 }
 #winner{
   font-style: italic;
+}
+#winnerPage{
+  display: none;
 }
 /* Animations */
 @keyframes swap{
