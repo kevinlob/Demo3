@@ -1,0 +1,170 @@
+*{
+  box-sizing: border-box;
+}
+html, body{
+  margin: 0;
+  height: 100%;
+}
+/* Utilities */
+.button{
+  text-align: center;
+}
+.button p{
+  font-family: sans-serif;
+  font-size: 24px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 8px;
+  margin-top: 3%;
+  width:15%;
+  padding: 10px;
+  background: rgba(19, 134, 81, 0.849);
+  border: solid 2px rgb(51, 51, 51);
+  color:white;
+}
+.button p:hover{
+background: rgb(52, 83, 175);
+}
+#Homepage .button{
+  display: inline;
+}
+.bold{
+  color:rgba(19, 134, 81, 0.849);
+  font-size:72px;
+  -webkit-text-fill-color:#d0fef5 ;
+  -webkit-text-stroke-width: 3.5px;
+  -webkit-text-stroke-color:  black;
+  font-weight:bolder;
+  font-style: italic;
+}
+.page{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: #4975BC;
+  animation: swap 2.5s infinite ;
+}
+.test{
+  position: relative;
+  font-family: sans-serif;
+  font-size: 56px;
+  color: #d0fef5;
+  text-align: center;
+  margin:auto;
+  padding-top: 10%;
+  font-style: italic;
+}
+.text{
+  display: block;
+  margin: auto;
+  margin-top: 12%;
+  border: none;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 50px;
+  color:#30323D;
+}
+.text::placeholder{
+  color:#555;
+}
+.logo img{
+  position: absolute;
+  top:0;
+  left:0;
+  height:100px;
+}
+.logo img:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+
+.playerbox p{
+  float:left;
+  padding:0;
+  margin:0;
+  font-size: 36px;
+  font-weight: normal;
+}
+.playerbox{
+  display: inline-block;
+  width: 30%;
+  height:100%;
+  outline:solid 2px #555555;
+  padding: 20px 30px;
+}
+#guess.text{
+  margin-top:3%;
+}
+#guess,#enterguess{
+  display: inline;
+}
+#enterguess p{
+  margin:auto;
+}
+.container{
+  text-align: center;
+}
+.row{
+  display: block;
+  height:250px;
+  padding-left: 450px;
+  padding-right: 450px;
+  padding-bottom:300px;
+  outline: 2px solid green;
+}
+.table {
+  margin: auto;
+  padding-top: 2%;
+  border-spacing: 100px 20px;
+}
+
+.pictures {
+  border: solid 4px rgb(65, 64, 64);
+  background: white;
+  padding-bottom:10px;
+  border-spacing: 2em;
+  cursor: pointer;
+}
+.pictures:hover{
+  opacity: .7;
+}
+.photos{
+  height:220px;
+  width: 220px;
+}
+.score{
+  position: absolute;
+  right:0;
+  top:0;
+  color:white;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#gamePage{
+  display:none;
+}
+#transitionPage{
+  display:none;
+}
+#statsPage{
+  display: none;
+}
+#winner{
+  font-style: italic;
+}
+#winnerPage{
+  display: none;
+}
+/* Animations */
+@keyframes swap{
+  0%{
+    background: #4975BC
+  }
+  55%{
+    background: #3A7EA5
+  }
+  100%{
+    background: #4975BC
+  }
+}

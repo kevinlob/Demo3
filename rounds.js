@@ -103,9 +103,6 @@ const round_15 = {
   photo4: "/client/img/round 15/image4.jpg",
   answer: "adder"
 };
-
-
-
 const round_16 = {
   photo1: "/client/img/round 16/image1.jpg", 
   photo2: "/client/img/round 16/image2.jpg",
@@ -141,9 +138,242 @@ const round_20 = {
   photo4: "/client/img/round 20/image4.jpg",
   answer: "skate"
 };
+const round_21 = {
+  photo1: "/client/img/round 21/image1.jpg", 
+  photo2: "/client/img/round 21/image2.jpg",
+  photo3: "/client/img/round 21/image3.jpg",
+  photo4: "/client/img/round 21/image4.jpg",
+  answer: "wind"
+};
+const round_22 = {
+  photo1: "/client/img/round 22/image1.jpg", 
+  photo2: "/client/img/round 22/image2.jpg",
+  photo3: "/client/img/round 22/image3.jpg",
+  photo4: "/client/img/round 22/image4.jpg",
+  answer: "bat"
+};
+const round_23 = {
+  photo1: "/client/img/round 23/image1.jpg", 
+  photo2: "/client/img/round 23/image2.jpg",
+  photo3: "/client/img/round 23/image3.jpg",
+  photo4: "/client/img/round 23/image4.jpg",
+  answer: "tick"
+};
+const round_24 = {
+  photo1: "/client/img/round 24/image1.jpg", 
+  photo2: "/client/img/round 24/image2.jpg",
+  photo3: "/client/img/round 24/image3.jpg",
+  photo4: "/client/img/round 24/image4.jpg",
+  answer: "check"
+};
+const round_25 = {
+  photo1: "/client/img/round 25/image1.jpg", 
+  photo2: "/client/img/round 25/image2.jpg",
+  photo3: "/client/img/round 25/image3.jpg",
+  photo4: "/client/img/round 25/image4.jpg",
+  answer: "block"
+};
+const round_26 = {
+  photo1: "/client/img/round 26/image1.jpg", 
+  photo2: "/client/img/round 26/image2.jpg",
+  photo3: "/client/img/round 26/image3.jpg",
+  photo4: "/client/img/round 26/image4.jpg",
+  answer: "gum"
+};
+const round_27 = {
+  photo1: "/client/img/round 27/image1.jpg", 
+  photo2: "/client/img/round 27/image2.jpg",
+  photo3: "/client/img/round 27/image3.jpg",
+  photo4: "/client/img/round 27/image4.jpg",
+  answer: "bar"
+};
+const round_28 = {
+  photo1: "/client/img/round 28/image1.jpg", 
+  photo2: "/client/img/round 28/image2.jpg",
+  photo3: "/client/img/round 28/image3.jpg",
+  photo4: "/client/img/round 28/image4.jpg",
+  answer: "market"
+};
+const round_29 = {
+  photo1: "/client/img/round 29/image1.jpg", 
+  photo2: "/client/img/round 29/image2.jpg",
+  photo3: "/client/img/round 29/image3.jpg",
+  photo4: "/client/img/round 29/image4.jpg",
+  answer: "star"
+};
+const round_30 = {
+  photo1: "/client/img/round 30/image1.jpg", 
+  photo2: "/client/img/round 30/image2.jpg",
+  photo3: "/client/img/round 30/image3.jpg",
+  photo4: "/client/img/round 30/image4.jpg",
+  answer: "gap"
+};
+const round_31 = {
+  photo1: "/client/img/round 31/image1.jpg", 
+  photo2: "/client/img/round 31/image2.jpg",
+  photo3: "/client/img/round 31/image3.jpg",
+  photo4: "/client/img/round 31/image4.jpg",
+  answer: "butt"
+};
+const round_32 = {
+  photo1: "/client/img/round 32/image1.jpg", 
+  photo2: "/client/img/round 32/image2.jpg",
+  photo3: "/client/img/round 32/image3.jpg",
+  photo4: "/client/img/round 32/image4.jpg",
+  answer: "curl"
+};
+const round_33 = {
+  photo1: "/client/img/round 33/image1.jpg", 
+  photo2: "/client/img/round 33/image2.jpg",
+  photo3: "/client/img/round 33/image3.jpg",
+  photo4: "/client/img/round 33/image4.jpg",
+  answer: "jack"
+};
+const round_34 = {
+  photo1: "/client/img/round 34/image1.jpg", 
+  photo2: "/client/img/round 34/image2.jpg",
+  photo3: "/client/img/round 34/image3.jpg",
+  photo4: "/client/img/round 34/image4.jpg",
+  answer: "seal"
+};
+const round_35 = {
+  photo1: "/client/img/round 35/image1.jpg", 
+  photo2: "/client/img/round 35/image2.jpg",
+  photo3: "/client/img/round 35/image3.jpg",
+  photo4: "/client/img/round 35/image4.jpg",
+  answer: "strike"
+};
+const round_36 = {
+  photo1: "/client/img/round 36/image1.jpg", 
+  photo2: "/client/img/round 36/image2.jpg",
+  photo3: "/client/img/round 36/image3.jpg",
+  photo4: "/client/img/round 36/image4.jpg",
+  answer: "tag"
+};
+const round_37 = {
+  photo1: "/client/img/round 37/image1.jpg", 
+  photo2: "/client/img/round 37/image2.jpg",
+  photo3: "/client/img/round 37/image3.jpg",
+  photo4: "/client/img/round 37/image4.jpg",
+  answer: "tip"
+};
+const round_38 = {
+  photo1: "/client/img/round 38/image1.jpg", 
+  photo2: "/client/img/round 38/image2.jpg",
+  photo3: "/client/img/round 38/image3.jpg",
+  photo4: "/client/img/round 38/image4.jpg",
+  answer: "nail"
+};
+const round_39 = {
+  photo1: "/client/img/round 39/image1.jpg", 
+  photo2: "/client/img/round 39/image2.jpg",
+  photo3: "/client/img/round 39/image3.jpg",
+  photo4: "/client/img/round 39/image4.jpg",
+  answer: "match"
+};
+const round_40 = {
+  photo1: "/client/img/round 40/image1.jpg", 
+  photo2: "/client/img/round 40/image2.jpg",
+  photo3: "/client/img/round 40/image3.jpg",
+  photo4: "/client/img/round 40/image4.jpg",
+  answer: "fire"
+};
+const round_41 = {
+  photo1: "/client/img/round 41/image1.jpg", 
+  photo2: "/client/img/round 41/image2.jpeg",
+  photo3: "/client/img/round 41/image3.jpg",
+  photo4: "/client/img/round 41/image4.jpg",
+  answer: "fit"
+};
+const round_42 = {
+  photo1: "/client/img/round 42/image1.jpg", 
+  photo2: "/client/img/round 42/image2.jpg",
+  photo3: "/client/img/round 42/image3.jpg",
+  photo4: "/client/img/round 42/image4.jpg",
+  answer: "point"
+};
 
-var start_round = [round_1,round_2, round_3, round_4, round_5, round_6, round_7, round_8, round_9, round_10, round_11, round_12, round_13, round_14, round_15, round_16, round_17, round_18, round_19, round_20]
-// var round = [round_1,round_2, round_3, round_4, round_5, round_6, round_7, round_8, round_9, round_10, round_11, round_12, round_13, round_14, round_15, round_16, round_17, round_18, round_19, round_20]
-var round = [round_1,round_2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const round_43 = {
+//   photo1: "/client/img/round 43/image1.jpg", 
+//   photo2: "/client/img/round 43/image2.jpg",
+//   photo3: "/client/img/round 43/image3.jpg",
+//   photo4: "/client/img/round 43/image4.jpg",
+//   answer: ""
+// };
+// const round_44 = {
+//   photo1: "/client/img/round 44/image1.jpg", 
+//   photo2: "/client/img/round 44/image2.jpg",
+//   photo3: "/client/img/round 44/image3.jpg",
+//   photo4: "/client/img/round 44/image4.jpg",
+//   answer: ""
+// };
+// const round_45 = {
+//   photo1: "/client/img/round 45/image1.jpg", 
+//   photo2: "/client/img/round 45/image2.jpg",
+//   photo3: "/client/img/round 45/image3.jpg",
+//   photo4: "/client/img/round 45/image4.jpg",
+//   answer: ""
+// };
+// const round_46 = {
+//   photo1: "/client/img/round 46/image1.jpg", 
+//   photo2: "/client/img/round 46/image2.jpg",
+//   photo3: "/client/img/round 46/image3.jpg",
+//   photo4: "/client/img/round 46/image4.jpg",
+//   answer: ""
+// };
+// const round_47 = {
+//   photo1: "/client/img/round 47/image1.jpg", 
+//   photo2: "/client/img/round 47/image2.jpg",
+//   photo3: "/client/img/round 47/image3.jpg",
+//   photo4: "/client/img/round 47/image4.jpg",
+//   answer: ""
+// };
+// const round_48 = {
+//   photo1: "/client/img/round 48/image1.jpg", 
+//   photo2: "/client/img/round 48/image2.jpg",
+//   photo3: "/client/img/round 48/image3.jpg",
+//   photo4: "/client/img/round 48/image4.jpg",
+//   answer: ""
+// };
+// const round_49 = {
+//   photo1: "/client/img/round 49/image1.jpg", 
+//   photo2: "/client/img/round 49/image2.jpg",
+//   photo3: "/client/img/round 49/image3.jpg",
+//   photo4: "/client/img/round 49/image4.jpg",
+//   answer: ""
+// };
+// const round_50 = {
+//   photo1: "/client/img/round 50/image1.jpg", 
+//   photo2: "/client/img/round 50/image2.jpg",
+//   photo3: "/client/img/round 50/image3.jpg",
+//   photo4: "/client/img/round 50/image4.jpg",
+//   answer: ""
+// };
+
+
+var reset_rounds = [round_1,round_2, round_3, round_4, round_5, round_6, round_7, round_8, round_9, round_10,
+  round_11, round_12, round_13, round_14, round_15, round_16, round_17, round_18, round_19, round_20,
+  round_21, round_22, round_23, round_24, round_25, round_26, round_27, round_28, round_29, round_30,
+  round_31, round_32, round_33, round_34, round_35, round_36, round_37, round_38, round_39, round_40,
+  round_41, round_42]
+var round = [round_1,round_2, round_3, round_4, round_5, round_6, round_7, round_8, round_9, round_10,
+   round_11, round_12, round_13, round_14, round_15, round_16, round_17, round_18, round_19, round_20,
+   round_21, round_22, round_23, round_24, round_25, round_26, round_27, round_28, round_29, round_30,
+   round_31, round_32, round_33, round_34, round_35, round_36, round_37, round_38, round_39, round_40,
+   round_41, round_42]
 var current_Round = round_1
-module.exports = {round, current_Round}
+module.exports = {round, current_Round, reset_rounds}

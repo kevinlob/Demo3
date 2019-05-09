@@ -1,0 +1,50 @@
+
+
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="/client/css/style.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="page" id = "Homepage">
+    <p class = "test"> <span class="bold">4</span> Pics <span class="bold">1</span> Word</p>
+    <input type="text" name="user" class = "text"id="username" placeholder="username">
+    <div class="container">
+      <div id="enterUser" class="button"><p>Enter</p></div>
+    </div>
+  </div>
+  <div class="page" id="transitionPage">
+    <p class="test"><span class="bold" id = "time">Ready?</span></p>
+  </div>
+  <div class="page" id="gamePage">
+    <div class="logo"><img src="/client/img/logo.png" alt="Logo"></div>
+    <div class="score" id="playerScore">Score:0</div>
+    <table class="table">
+        <tr>
+            <th class="pictures"><img src="/client/img/Round 1/image1.jpg" class="photos" id="photo1"></th>
+            <th class="pictures"><img src="/client/img/Round 1/image2.jpg" class="photos" id="photo2"></th>
+        </tr>
+        <tr>
+            <th class="pictures"><img src="/client/img/Round 1/image3.jpg" class="photos" id="photo3"></th>
+            <th class="pictures"><img src="/client/img/Round 1/image4.jpg" class="photos" id="photo4"></th>                
+        </tr>
+    </table>
+    <div class="container">
+      <input type="text" name="guess" id="guess" class = "text" placeholder="Enter Guess!">
+      <div class="button" id="enterGuess"><p>Enter Guess</p></div>
+    </div>
+  </div>
+  <div class="page" id="winnerPage">
+    <p id = "winner" class="test">__ Got the Most Points!</p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+  <script src="/client/js/main.js"></script>
+</body>
+</html>
